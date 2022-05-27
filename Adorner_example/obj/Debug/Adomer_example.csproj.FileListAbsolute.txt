@@ -1,0 +1,17 @@
+C:\Users\x123x\source\repos\Adomer_example\Adomer_example\obj\Debug\MainWindow.g.cs
+C:\Users\x123x\source\repos\Adomer_example\Adomer_example\obj\Debug\App.g.cs
+C:\Users\x123x\source\repos\Adomer_example\Adomer_example\obj\Debug\MainWindow.baml
+C:\Users\x123x\source\repos\Adomer_example\Adomer_example\obj\Debug\Adomer_example.csproj.GenerateResource.cache
+C:\Users\x123x\source\repos\Adomer_example\Adomer_example\obj\Debug\Adomer_example.csproj.CoreCompileInputs.cache
+C:\Users\x123x\source\repos\Adomer_example\Adomer_example\obj\Debug\App.baml
+C:\Users\x123x\source\repos\Adomer_example\Adomer_example\obj\Debug\Resources\Load_image_Dictionary.baml
+C:\Users\x123x\source\repos\Adomer_example\Adomer_example\obj\Debug\Adomer_example.csprojAssemblyReference.cache
+C:\Users\x123x\source\repos\Adomer_example\Adomer_example\bin\Debug\Adorner_example.exe.config
+C:\Users\x123x\source\repos\Adomer_example\Adomer_example\bin\Debug\Adorner_example.exe
+C:\Users\x123x\source\repos\Adomer_example\Adomer_example\bin\Debug\Adorner_example.pdb
+C:\Users\x123x\source\repos\Adomer_example\Adomer_example\obj\Debug\Adorner_example_MarkupCompile.cache
+C:\Users\x123x\source\repos\Adomer_example\Adomer_example\obj\Debug\Adorner_example_MarkupCompile.lref
+C:\Users\x123x\source\repos\Adomer_example\Adomer_example\obj\Debug\Adorner_example.g.resources
+C:\Users\x123x\source\repos\Adomer_example\Adomer_example\obj\Debug\Adorner_example.Properties.Resources.resources
+C:\Users\x123x\source\repos\Adomer_example\Adomer_example\obj\Debug\Adorner_example.exe
+C:\Users\x123x\source\repos\Adomer_example\Adomer_example\obj\Debug\Adorner_example.pdb

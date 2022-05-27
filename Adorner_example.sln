@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adorner_example", "Adorner_example\Adorner_example.csproj", "{CEE551BB-1D13-4850-A6F9-2101EB7CE483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEE551BB-1D13-4850-A6F9-2101EB7CE483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE551BB-1D13-4850-A6F9-2101EB7CE483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE551BB-1D13-4850-A6F9-2101EB7CE483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE551BB-1D13-4850-A6F9-2101EB7CE483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEB43CF9-856A-4638-AC61-642B53E6BAEC}
+	EndGlobalSection
+EndGlobal
