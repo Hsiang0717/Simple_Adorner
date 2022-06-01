@@ -7,7 +7,7 @@ Contain inkcanvas and adorner, that can draw and control picture.
 - [x] Position moving
 - [x] Rotate degree
 - [x] Resize
-- [x] remove on canvas
+- [x] Remove on canvas
 
 
 <img src="img/show.png" width="400">
